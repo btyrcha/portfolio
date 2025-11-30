@@ -7,3 +7,5 @@ layout: default
 title: My Photography Portfolio
 description: A portfolio showcasing my favourite analog photos.
 show_downloads: false
+github:
+  is_project_page: false
